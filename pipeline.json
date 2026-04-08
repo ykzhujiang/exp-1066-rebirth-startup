@@ -14,10 +14,13 @@
     "source_video": null,
     "entry": "B"
   },
-  "status": "step1.5_done",
+  "status": "step3_in_progress",
   "steps": {
     "step1b": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-08T04:11:30+00:00",
+      "completed_at": "2026-04-08T04:11:50+00:00",
+      "output": "production/storyboard/ep01.md"
     },
     "step1.5": {
       "status": "done",
@@ -28,7 +31,8 @@
       "storyboard_verdict": "PASS"
     },
     "step3": {
-      "status": "not_started"
+      "status": "in_progress",
+      "started_at": "2026-04-08T04:15:33.902155+00:00"
     },
     "step4": {
       "status": "not_started"
