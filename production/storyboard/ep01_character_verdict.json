@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-04-08T04:12:38.548464+00:00",
+  "verdict": "PASS",
+  "storyboard": "ep01.md",
+  "setting": "中国·2003年大学校园+现代都市办公室",
+  "characters": {
+    "林远-35": {
+      "completeness": {
+        "pass": true,
+        "missing": []
+      },
+      "image_friendliness": {
+        "pass": true,
+        "vague_terms": []
+      },
+      "setting_consistency": {
+        "pass": true,
+        "note": "Character has East Asian features consistent with setting"
+      },
+      "differentiation": {
+        "pass": true,
+        "similar_to": null
+      }
+    },
+    "林远-20": {
+      "completeness": {
+        "pass": true,
+        "missing": []
+      },
+      "image_friendliness": {
+        "pass": true,
+        "vague_terms": []
+      },
+      "setting_consistency": {
+        "pass": true,
+        "note": "Character has East Asian features consistent with setting"
+      },
+      "differentiation": {
+        "pass": true,
+        "similar_to": null
+      }
+    }
+  },
+  "hard_fails": 0,
+  "soft_warnings": 0,
+  "auto_fixed": true,
+  "fix_rounds": 1
+}
